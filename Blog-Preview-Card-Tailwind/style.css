@@ -1,0 +1,85 @@
+/*@font-face {
+    font-family:Figtree-Italic;
+    src: url(assets/fonts/Figtree-Italic-VariableFont_wght.ttf);
+}
+
+@font-face {
+    font-family: Figtree-Variable;
+    src: url(assets/fonts/Figtree-VariableFont_wght.ttf);
+}
+
+main{
+    display: flex;
+    height: 100vh;
+  
+}
+
+body{
+    background-color: hsl(47, 88%, 63%);
+}
+
+.container{
+    padding: 20px;
+    height: auto;
+    width: 300px;
+    margin: auto;
+    background-color: white;
+    text-align: left;
+    border: 2px solid black;
+    border-radius: 15px;
+    box-shadow: 10px 10px;
+
+    
+}
+
+/* h5{
+    background-color:hsl(47, 88%, 63%) ;
+} */
+
+/*
+img{
+    border-radius: 10px;
+    width: 300px;
+    
+    
+}
+
+h1{
+    font-family: 'Figtree-Variable';
+    font-size: 22px;
+    font-weight: 800;
+}
+
+h4{
+    font-family: 'Figtree-Variable';
+    font-weight: 800;
+}
+
+h5{
+    font-family: 'Figtree-Variable';
+    font-weight: 800;
+    background-color:hsl(47, 88%, 63%) ;
+    padding: 5px;
+    border-radius: 4px;
+    width: 55px;
+}
+
+
+h6{
+    font-family: 'Figtree-Variable';
+    font-weight: 500;
+}
+
+p{
+    font-family: 'Figtree-Variable';
+    font-weight: 500;
+}
+.attribution {
+      font-size: 11px;
+      text-align: center;
+    }
+
+    .attribution a {
+      color: hsl(228, 45%, 44%);
+    }
+ 
